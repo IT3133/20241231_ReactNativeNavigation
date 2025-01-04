@@ -13,7 +13,7 @@ export default function AboutUs() {
                     <View style={styles.imagepad}>
                         <Image source={require('../assets/uovlogo.png')} style={styles.image}/>
                     </View>
-                    <Text variant="bodyMedium" style={styles.body}>
+                    <Text variant="bodyMedium" style={styles.body} >
                         The Northern Province Affiliated University College (NPAUC) was established in 1991. Subsequently, by an order made under Section 22 of the Universities Act No. 16 of 1978, the Vavuniya Campus of the University of Jaffna was established on 1st April 1997 with two faculties, namely the Faculty of Applied Science and the Faculty of Business Studies. In 2020, by the Extraordinary Gazette No. 2160/43 dated 30.01.2020, the Faculty of Technological Studies was also established. All three faculties offer twelve degree programs of three and four year duration at present.
 
                         The Vavuniya Campus of the University of Jaffna has been elevated to a separate state University and established as the “University of Vavuniya, Sri Lanka” by the extraordinary gazette issued on 08th June 2021. Accordingly, the University of Vavuniya became the 17th state university in Sri Lanka effective from 01st August 2021. The University of Vavuniya expects to increase the student intake through introducing new study programs along with the establishment of the proposed faculties, namely, Faculty of Medicine, Faculty of Tourism and Hotel Management, Faculty of Health Sciences, Faculty of Aquaculture, Fisheries and Marine Studies, Faculty of  Environmental Science, Faculty of Livestock, Faculty of Humanities and Social Sciences, and Faculty of Graduate Studies.
@@ -55,6 +55,7 @@ const styles = StyleSheet.create({
         padding: 8,
         textAlign: 'justify',
         flex: 6,
+        
     },
     scrollView: {
         flexGrow: 1,
