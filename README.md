@@ -94,8 +94,18 @@ The core of the navigation is handled by <strong>React Navigation's Stack Naviga
 
 The main app component sets up the Stack Navigator and defines routes to the Home and About Us screens.
 <h2>Outputs</h2>
+
+![HomePage](https://github.com/user-attachments/assets/4ab0d2c1-260e-4d32-9994-ebaf00bd365e)
+
 ![HomePage2](https://github.com/user-attachments/assets/63487199-8da3-4eac-a238-c015d17b31cc)
 
+![ContactUs](https://github.com/user-attachments/assets/feba86ac-3059-491f-8ead-f42c2a151fff)
+
+![ContactUs2](https://github.com/user-attachments/assets/d02cd54e-bb06-4f58-ad39-4f2046abc0bc)
+
+![UniHistry](https://github.com/user-attachments/assets/bd46ab0d-7791-4d6e-8b87-946bc0a14b7d)
+
+![UniHistry2](https://github.com/user-attachments/assets/45803d24-500b-4206-8632-cc341d6a92a5)
 <h2>License</h2>
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
