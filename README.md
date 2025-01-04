@@ -70,14 +70,6 @@ npx expo start --web
 2. <strong>About Us</strong>: Information about the University of Vavuniya with historical details and the university's goals.</br>
 3. <strong>Navigation Buttons</strong>: Buttons that allow users to navigate between the different screens.</br>
 
-<h2> Output</h2>
-![HomePage](https://github.com/user-attachments/assets/d61d97ca-57bf-4a32-b6e1-298cdc83ca15)</br>
-![HomePage2](https://github.com/user-attachments/assets/39f991b4-5af9-47d1-a71a-03f36ea9bb60)</br>
-![ContactUs](https://github.com/user-attachments/assets/06e6ff79-38e1-4ee7-a0e0-337e3733009c)</br>
-![ContactUs2](https://github.com/user-attachments/assets/4c4f9a8c-ec25-43c4-ba72-dd5d2e3befc3)</br>
-![UniHistry](https://github.com/user-attachments/assets/dde1e733-8c10-4855-81fd-6d287a3157d1)</br>
-![UniHistry2](https://github.com/user-attachments/assets/80fe3c07-20c4-4542-9813-1e13610a1fb3)</br>
-
 <h2>About Us Page</h2>
 
 The <strong>About Us</strong> page provides detailed information about the University of Vavuniya. The page is styled with components from <strong>React Native Paper</strong>.
@@ -101,8 +93,8 @@ The core of the navigation is handled by <strong>React Navigation's Stack Naviga
 <h2>Example</h2>
 
 The main app component sets up the Stack Navigator and defines routes to the Home and About Us screens.
-
-
+<h2>Outputs</h2>
+![HomePage2](https://github.com/user-attachments/assets/63487199-8da3-4eac-a238-c015d17b31cc)
 
 <h2>License</h2>
 
