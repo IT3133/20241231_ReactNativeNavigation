@@ -71,7 +71,7 @@ npx expo start --web
 3. <strong>Navigation Buttons</strong>: Buttons that allow users to navigate between the different screens.</br>
 
 <h2> Output</h2>
-![HomePage](https://github.com/user-attachments/assets/704131d6-889c-4935-a147-af9d70a6ddda)
+![HomePage](https://github.com/user-attachments/assets/d61d97ca-57bf-4a32-b6e1-298cdc83ca15)
 ![HomePage2](https://github.com/user-attachments/assets/39f991b4-5af9-47d1-a71a-03f36ea9bb60)</br>
 ![ContactUs](https://github.com/user-attachments/assets/06e6ff79-38e1-4ee7-a0e0-337e3733009c)
 ![ContactUs2](https://github.com/user-attachments/assets/4c4f9a8c-ec25-43c4-ba72-dd5d2e3befc3)</br>
